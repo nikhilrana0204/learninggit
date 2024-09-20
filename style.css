@@ -1,6 +1,6 @@
 /* Apply a background image to the entire body */
 body {
-    background-image: url("X:/GIT/240_F_261530621_GSo6USr4tNJc1670c0moKXI0x6bThcPn.jpg");
+    background-image: url(./bg.webp);
     background-size: cover; /* Ensures the image covers the entire page */
     background-position: center; /* Centers the background image */
     background-repeat: no-repeat; /* Prevents repeating the image */
