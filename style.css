@@ -1,0 +1,21 @@
+/* Apply a background image to the entire body */
+body {
+    background-image: url("X:/GIT/240_F_261530621_GSo6USr4tNJc1670c0moKXI0x6bThcPn.jpg");
+    background-size: cover; /* Ensures the image covers the entire page */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents repeating the image */
+    height: 100vh; /* Set height to 100% of the viewport */
+    margin: 0; /* Removes default margin */
+    display: flex; /* Enables flexbox */
+    justify-content: center; /* Horizontally center the text */
+    align-items: center; /* Vertically center the text */
+    text-align: center; /* Center-align the text */
+}
+
+/* Styling the h1 element */
+h1 {
+    color: white; /* White text color for better contrast */
+    font-size: 3em; /* Large font size */
+    font-family: Arial, sans-serif; /* Apply a clean font */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Add a subtle shadow for better readability */
+}
